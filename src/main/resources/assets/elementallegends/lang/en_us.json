@@ -1,0 +1,22 @@
+{
+  "item.elementallegends.fire_staff": "Fire Staff",
+  "item.elementallegends.water_staff": "Water Staff",
+  "item.elementallegends.air_staff": "Air Staff",
+  "item.elementallegends.earth_staff": "Earth Staff",
+  "item.elementallegends.ice_staff": "Ice Staff",
+  "item.elementallegends.lightning_staff": "Lightning Staff",
+  "item.elementallegends.nature_staff": "Nature Staff",
+  "item.elementallegends.shadow_staff": "Shadow Staff",
+  "item.elementallegends.light_staff": "Light Staff",
+  "item.elementallegends.metal_staff": "Metal Staff",
+  "item.elementallegends.poison_staff": "Poison Staff",
+  "item.elementallegends.time_staff": "Time Staff",
+  "item.elementallegends.elemental_manual": "Arcane Manual",
+  "item.elementallegends.charge_amulet": "Charge Amulet",
+  "item.elementallegends.poison_helmet": "Poison Helm",
+  "key.category.elementallegends": "Elemental Legends",
+  "key.elementallegends.skill_tree": "Open Skill Tree",
+  "gui.elementallegends.skilltree.title": "Skill Tree",
+  "gui.elementallegends.skilltree.ability": "Ability",
+  "init.elementallegends.welcome": "The arcane energy of the elements awakens."
+}

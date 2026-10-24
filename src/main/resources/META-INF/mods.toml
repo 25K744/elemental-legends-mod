@@ -1,0 +1,11 @@
+[mod]
+modId="elementallegends"
+version="1.0.0"
+displayName="Elemental Legends"
+authors="Elemental Legends Team"
+description="A Forge 1.20.1 magical RPG mod built around elemental mastery, staff abilities, armor, progression, and skill tree unlocks."
+logoFile="icon.png"
+credits="Forge community and magical RPG design concepts."
+displayURL="https://github.com/25K744/elemental-legends-mod"
+license="MIT"
+issueTrackerURL="https://github.com/25K744/elemental-legends-mod/issues"

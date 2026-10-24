@@ -1,0 +1,22 @@
+{
+  "item.elementallegends.fire_staff": "Посох огня",
+  "item.elementallegends.water_staff": "Посох воды",
+  "item.elementallegends.air_staff": "Посох воздуха",
+  "item.elementallegends.earth_staff": "Посох земли",
+  "item.elementallegends.ice_staff": "Посох льда",
+  "item.elementallegends.lightning_staff": "Посох молний",
+  "item.elementallegends.nature_staff": "Посох природы",
+  "item.elementallegends.shadow_staff": "Посох теней",
+  "item.elementallegends.light_staff": "Посох света",
+  "item.elementallegends.metal_staff": "Посох металла",
+  "item.elementallegends.poison_staff": "Посох яда",
+  "item.elementallegends.time_staff": "Посох времени",
+  "item.elementallegends.elemental_manual": "Арканная книга",
+  "item.elementallegends.charge_amulet": "Амулет заряда",
+  "item.elementallegends.poison_helmet": "Шлем яда",
+  "key.category.elementallegends": "Elemental Legends",
+  "key.elementallegends.skill_tree": "Открыть дерево навыков",
+  "gui.elementallegends.skilltree.title": "Дерево навыков",
+  "gui.elementallegends.skilltree.ability": "Способность",
+  "init.elementallegends.welcome": "Арканная энергия элементов пробуждается."
+}
